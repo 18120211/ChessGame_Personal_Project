@@ -14,7 +14,7 @@
   * Giao diện gameplay  
   ![Giao diện gameplay](./commit/gameplay.PNG)     
    
-  * Phong hậu
+  * Phong hậu  
   ![Giao diện gameplay_1](./commit/gameplay_1.PNG)  
   
   * Giao diện chờ  
